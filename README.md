@@ -2,6 +2,8 @@
 
 # hmip-eufy-mower-plugin
 
+📦 **[Download hmip-eufy-mower-plugin-1.0.0.tar.gz](https://github.com/fabiorenner-hub/hmip-hcu-eufymower/releases/latest/download/hmip-eufy-mower-plugin-1.0.0.tar.gz)** — install via HCUweb → *Developer mode → Plugins → Install from file*.
+
 Homematic IP HCU plugin that brings a **Eufy E15 / E18 robotic lawn mower**
 into the HMIP app, locally over the Tuya v3.5 protocol — no cloud account, no
 extra bridge required.
