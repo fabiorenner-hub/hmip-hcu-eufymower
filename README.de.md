@@ -48,6 +48,12 @@ chmod +x build.sh
 
 Herausgegeben von **Fabio Renner**.
 
+### Verwendete Drittanbieter
+
+- [`tuyapi`](https://github.com/codetheweb/tuyapi) von codetheweb und Mitwirkenden — Implementierung des Tuya-v3.5-Lokalprotokolls (MIT).
+- Eufy und die E15/E18-Mähroboter sind Produkte von Anker Innovations; dieses Plugin ist mit Anker / Eufy nicht verbunden und wird nicht unterstützt.
+- Gebaut gegen die [Homematic IP Connect API 1.0.1](https://github.com/homematicip/connect-api) von eQ-3.
+
 ## Lizenz
 
 Apache-2.0

@@ -48,6 +48,12 @@ chmod +x build.sh
 
 Issued by **Fabio Renner**.
 
+### Third-party components
+
+- [`tuyapi`](https://github.com/codetheweb/tuyapi) by codetheweb and contributors — Tuya v3.5 local protocol implementation (MIT).
+- Eufy and the E15/E18 robotic lawn mowers are products of Anker Innovations; this plugin is not affiliated with or endorsed by Anker / Eufy.
+- Built against the [Homematic IP Connect API 1.0.1](https://github.com/homematicip/connect-api) by eQ-3.
+
 ## License
 
 Apache-2.0
