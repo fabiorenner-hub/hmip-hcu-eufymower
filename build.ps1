@@ -1,7 +1,7 @@
 $ErrorActionPreference = 'Stop'
 
 $Image = 'hmip-eufy-mower-plugin'
-$Tag = '1.1.0'
+$Tag = '1.1.1'
 $Platform = 'linux/arm64'
 $Out = "$Image-$Tag.tar"
 $OutGz = "$Out.gz"
@@ -33,3 +33,4 @@ Remove-Item $Out -Force
 
 Write-Host ">> Done: $(Resolve-Path $OutGz)"
 Write-Host '   Upload this file in HCUweb -> Plugins -> Install from file.'
+
